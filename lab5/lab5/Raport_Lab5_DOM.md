@@ -144,7 +144,7 @@ table.addEventListener('click', function (event) \{
 - Базовая валидация формы
 
 
-Ссылка на репозиторий GitHub: https://github.com/
+Ссылка на репозиторий GitHub: https://github.com/badm1nton1/jslabs/edit/main/lab5/
 
 
 **4. Ответы на контрольные вопросы**
